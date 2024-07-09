@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋🤠 Heelloo! 
 
-<!--
-**austin047/austin047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm glad you landed here, there are lots of pages you could've visited but you ended up here, amazing!
 
-Here are some ideas to get you started:
+I imagine you want to know something about me before hopping to another page. Well, below I left some bullet points that go straight to the point. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 I'm a software engineer at Monkey Empire
+- 🔭 I’m currently working on the game backend for a free MMO Strategy Video Game with [Monkey Empire](https://monkeyempire.net/)
+- 🌱 I’m currently learning Goland
+- 👯 I’m looking to collaborate on open scource projects
+- 💬 Ask me about [Nodejs](https://nodejs.org/en) , [Terraform](https://dart.dev) and [Python](https://www.python.org/) 
+- 😄 Pronouns: he/him/his
+- 🌌 Fun fact: I once stayed up all night stargazing during a meteor shower in a remote mountain hut
+
+### Keep surfing
+
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fuhaustin) 
+
